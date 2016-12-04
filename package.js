@@ -2,7 +2,7 @@ Package.describe({
   name: "clinical:phantomjs-tests",
   summary: "A helper package for Meteor test driver packages. Runs client tests in PhantomJS.",
   git: "https://github.com/clinical-meteor/meteor-phantomjs-tests.git",
-  version: '0.1.0',
+  version: '0.1.1',
   testOnly: true,
 });
 
